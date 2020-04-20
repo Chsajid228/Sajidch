@@ -155,7 +155,8 @@ def login():
 		jalan(' \033[1;91mWarning: \033[1;96mDo Not Use Your Personal Account' )
 		jalan(' \033[1;91mWarning: \033[1;94mUse a New Account To Login' )
 		jalan(' \033[1;91mWarning: \033[1;93mChaudhry Muhammad Sajid' )                 
-		print "\033[1;94m══════════◄••Ⓒⓗ Ⓢⓐⓙⓘⓓ••►═════════
+		print 
+		"\033[1;94m══════════◄••Ⓒⓗ Ⓢⓐⓙⓘⓓ••►═════════
 		print('	   \033[1;94m▬\x1b[1;94m✔✔✔✔✔✔✔LOGIN WITH FACEBOOK✔✔✔✔✔✔✔\x1b[1;94m▬' )
 		print('	' )
 		id = raw_input('\033[1;91m[+] \x1b[1;94mEnter Your New Account Email or Username\x1b[1;95m: \x1b[1;93m')
